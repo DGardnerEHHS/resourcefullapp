@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="107px" height="84px" viewBox="0 0 107 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#filter-1)">
+        <g id="Screen-2" transform="translate(-107.000000, -263.000000)">
+            <g id="Group" transform="translate(109.000000, 263.000000)">
+                <path d="M102.390625,69.4070544 C102.390625,75.0166824 79.4697029,79.5641843 51.1953125,79.5641843 C22.9209221,79.5641843 0,75.0166824 0,69.4070544 L0,10.1571299 L102.390625,10.1571299 L102.390625,69.4070544 Z" id="Combined-Shape" fill="#1A2A3A"></path>
+                <ellipse id="Oval-27" fill="#34495E" cx="51.1953125" cy="10.1571299" rx="51.1953125" ry="10.1571299"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
